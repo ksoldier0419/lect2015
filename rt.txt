@@ -1,3 +1,5 @@
 Real-time License Plate Detection in High-Resolution Videos using Fastest Cascade Classifier and Core Patterns
 
 내용을 한번더 수정해봅시다.
+
+테스트 버전 시작합니다.
