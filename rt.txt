@@ -1,0 +1,1 @@
+Real-time License Plate Detection in High-Resolution Videos using Fastest Cascade Classifier and Core Patterns
